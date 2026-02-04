@@ -25,7 +25,7 @@
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 ### GitHub Stats
-![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryansh200x&show_icons=true&theme=radical&hide_border=true&cache_seconds=0)
+![Suryansh's GitHub stats](https://github-readme-stats-git-master.vercel.app/api?username=suryansh200x&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh200x&layout=compact&theme=radical&hide_border=true&cache_seconds=0)
 
